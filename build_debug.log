@@ -1,0 +1,5 @@
+[LoggerStatus.SUCCESS] | [+] Starting assembly. Options (True, True, True, True, True) | Sun Oct  6 21:11:28 2024
+[LoggerStatus.SUCCESS] | [+] Create default directories | Sun Oct  6 21:11:28 2024
+[LoggerStatus.SUCCESS] | [+] Copy Dotfiles & GTK | Sun Oct  6 21:11:28 2024
+[LoggerStatus.SUCCESS] | [+] Updates Enabled | Sun Oct  6 21:11:32 2024
+[LoggerStatus.SUCCESS] | [+] Installed BSPWM Dependencies | Sun Oct  6 21:11:37 2024
